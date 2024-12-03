@@ -6,4 +6,4 @@ As an enthusiastic and versatile professional with a passion for Quality Assuran
 
 ### 📊 Stats
 
-"https://github-readme-stats.vercel.app/api?username=shualyons&show_icons=true&locale=en" alt="shualyons"
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=shualyons&show_icons=true&themegruvbox)
