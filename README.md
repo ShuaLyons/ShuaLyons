@@ -4,14 +4,7 @@
 
 As an enthusiastic and versatile professional with a passion for Quality Assurance (QA), programming, and video game development, I am driven by the challenge of creating high-quality, engaging software experiences. My journey in software development has led me to explore both the technical and creative aspects of building robust applications, with a particular focus on ensuring that products are polished, bug-free, and optimized for performance.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaLyons&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShuaLyons&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -53,7 +46,14 @@ As an enthusiastic and versatile professional with a passion for Quality Assuran
 
 # 💻 Tech Stack:
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuaLyons&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShuaLyons&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
