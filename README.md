@@ -41,7 +41,7 @@ As an enthusiastic and versatile professional with a passion for Quality Assuran
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" (https://instagram.com/ShuaLyons) />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="(https://instagram.com/ShuaLyons)" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
@@ -53,10 +53,6 @@ As an enthusiastic and versatile professional with a passion for Quality Assuran
 
 # 💻 Tech Stack:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShuaLyons&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShuaLyons&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaLyons&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
