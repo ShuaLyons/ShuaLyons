@@ -29,8 +29,7 @@ As an enthusiastic and versatile professional with a passion for Quality Assuran
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaLyons&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   
 </div>
 
