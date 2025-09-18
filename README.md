@@ -1,4 +1,4 @@
-# 👾 Hi, I'm Joshua!
+#  Hi, I'm Joshua! 👾
 
 **`Developer (QA Engineer/Software Tester/Game Developer)`**
 
